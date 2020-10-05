@@ -48,6 +48,6 @@ it is necessary to use this method in the implementation.
 (learn more here)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind]
 
 ## HINTS
-[your stuck? click here!](./tips)
+[your stuck? click here!](TIPS.md)
 
 ![Moses-Promise](./Pictures/Moses-Promise.png)
