@@ -31,7 +31,7 @@ test.skip("Is not an instance of Promise", () => {
 
 ## Recommended prior Knowledge
 
-#### try to pass this challange using *only* the resources above:
+#### try to pass this challange using *only* the resources below: (don't look for other implementations)
 - How Promise works?
 [Promise MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 [Promises - why!?   Callback-Hell VS Promises](https://medium.com/better-programming/callbacks-vs-promises-in-javascript-1f074e93a3b5)
