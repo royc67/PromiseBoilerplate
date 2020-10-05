@@ -1,4 +1,7 @@
 # Promise Challenge
+
+![Promise=>declare](./Pictures/Promise-declare.jpeg)
+
 ## Story
 - The client comes from a religious background and isn't comfortable with the word "promise" being part of their software
 - The client wants a new class to replace the Promise, called... Declare
@@ -38,6 +41,7 @@ test.skip("Is not an instance of Promise", () => {
 - JS, how does it reads your code?
 [Asynchrony: Under the Hood](https://www.youtube.com/watch?v=SrNQS8J67zc&feature=youtu.be)
 
-
 ## HINTS
 [your stuck? click here!](TIPS.md)
+
+![Moses-Promise](./Pictures/Moses-Promise.png)
