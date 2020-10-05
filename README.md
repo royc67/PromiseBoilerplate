@@ -30,6 +30,8 @@ test.skip("Is not an instance of Promise", () => {
 ```
 
 ## Recommended prior Knowledge
+
+#### try to pass this challange using *only* the resources above:
 - How Promise works?
 [Promise MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 [Promises - why!?   Callback-Hell VS Promises](https://medium.com/better-programming/callbacks-vs-promises-in-javascript-1f074e93a3b5)
@@ -40,6 +42,10 @@ test.skip("Is not an instance of Promise", () => {
 
 - JS, how does it reads your code?
 [Asynchrony: Under the Hood](https://www.youtube.com/watch?v=SrNQS8J67zc&feature=youtu.be)
+
+- bind is a method in js, which pssing a 'this' value, to another function.
+it is necessary to use this method in the implementation.  
+(learn more here)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind]
 
 ## HINTS
 [your stuck? click here!](TIPS.md)
